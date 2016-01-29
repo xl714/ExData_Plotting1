@@ -27,6 +27,9 @@ legend(
     text.width = 50000
 )
 
+
 dev.copy(png, file = "plot3.png")
 
 dev.off()
+
+
